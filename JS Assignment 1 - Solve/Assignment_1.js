@@ -22,7 +22,7 @@ console.log( typeof foo() );
 
 // Answer: function
 
-// Q 3.
+// Q3.
 var x = 1;
 function foo() {
     x = 10;
